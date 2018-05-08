@@ -61,6 +61,13 @@
             <?php include('content/storage/StorageView.php'); ?>
         </div>
       </div>
+      
+      <div class="row">
+        <!-- Raspotify Status -->
+        <div class="col-lg-12 widget-less-padding">
+            <?php include('content/raspotify/status'); ?>
+        </div>
+      </div>
 
       <!-- Footer -->
       <footer class="footer">
